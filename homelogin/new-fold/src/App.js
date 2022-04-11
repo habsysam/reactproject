@@ -16,7 +16,7 @@ function App() {
               <Link to='/home' style={{textDecoration:'none',color:'white'}} >Home</Link>
             </div>
             <div>
-              <Link to='/signin' style={{marginRight:'25px',textDecoration:'none',color:'white'}} >Sign In</Link>
+              <Link to='/signin' style={{marginRight:'25px',textDecoration:'none',color:'B'}} >MEN</Link>
               <Link to='/register' style={{textDecoration:'none',color:'white'}}>Register</Link>
             </div>
             </div>
